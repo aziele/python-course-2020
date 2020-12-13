@@ -153,6 +153,8 @@ Wygeneruj poniższy łańcuch znaków w taki sposób, aby wpisać możliwie jak 
 ATATATATATATAT ATGC ATGC ATGC ATGC ATGC ATGC ATGC CGCGCGCGCGCGCG
 ```
 
+Na przykład: `4 * 'AT' + ' ' + 2 * 'AT'` wygeneruje `'ATATATAT ATAT'`.
+
 
 ## Zad. 14
 Sprawdź i krótko odpowiedz, co robią poniższe operacje:
