@@ -50,6 +50,23 @@ Podaj wartość uzyskaną w wyniku poniższych wyrażeń:
 ## Zad. 5
 Tworzenie zmiennej w Pythonie jest bardzo naturalne. Zmienna tworzona jest, kiedy kod pierwszy raz przypisuje jej wartość. Oznacza to, że nigdy nie deklarujemy zmiennych wcześniej.
 
+Na przykład:
+
+```python
+a = 3
+
+# Python automatycznie wykona trzy osobne kroki:
+# 1. Utworzenie obiektu reprezentującego wartość 3.
+# 2. Utworzenie zmiennej a, o ile jeszcze nie istnieje.
+# 3. Połączenie zmiennej a z nowym obiektem.
+#
+# Typ zmiennej ma typ obiektu, który ta zmienna przechowuje. 
+# Zmienna a staje się referencją do obiektu 3. Wewnętrznie 
+# zmienna jest tak naprawdę wskaźnikiem do miejsca w pamięci
+# zajmowanego przez obiekt i utworzonego przez wykonanie 
+# wyrażenia literału 3.
+```
+
 Utwórz dwie zmienne:
 
 ```python
