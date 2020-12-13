@@ -248,14 +248,17 @@ sequence = ">MAnlFKLgaENIFLGrKW    "
 Utwórz *one-liner*, który zwróci liczbę cytozyn w pierwszych 30 nukleotydach poniższej sekwencji DNA.
 
 ```python
-sequence = 'AGCCGAGCCCGGCGGCCACGGCTGGCGATGAGGAGCGGCGGGTTAGAGCGCGAGC'
+sequence = "AGCCGAGCCCGGCGGCCACGGCTGGCGATGAGGAGCGGCGGGTTAGAGCGCGAGC"
 ```
 
 
 ## Zad. 21
-Python oferuje *dwa mechanizmy formatowania łańcuchów znaków*: wyrażenie formatujące (`%`) i metodę `format`. Metoda `format` jest nowym i preferowym stylem formowatowania łańcuchów znaków w Pythonie i wkrótce zastąpi stary styl formatujący (`%`).
+Python oferuje *trzy mechanizmy formatowania łańcuchów znaków*: 
+1. Wyrażenie formatujące (`%`) [stary mechanizm: niezalecany]
+2. Metodę `format` 
+3. *F-strings* [nowość w Python 3.6: preferowany mechanizm, najlepsza wydajność]
 
-Poniższe instrukcje pozwolą Ci zapoznać się z użyciem obu mechanizmów.
+Poniższe instrukcje pozwolą Ci zapoznać się z użyciem trzech mechanizmów.
 
 Utwórz poniższe zmienne:
 
@@ -269,28 +272,30 @@ Przetestuj poniższe instrukcje:
  
 ```python
 '{} genome has {} meters and {} bp'.format(name, metr, nucl)
-'%s genome has %f meters and %i bp' % (name, metr, nucl)           
+'%s genome has %f meters and %i bp' % (name, metr, nucl)
+f'{name} genome has {metr} meters and {nucl} bp'        
 ```
 
 ```python
 '{} genome has {:.1f} meters and {:,} bp'.format(name, metr, nucl)
 '%s genome has %.1f meters and %i bp' % (name, metr, nucl)
+f'{name} genome has {metr:.1f} meters and {nucl:,} bp'
 ```
 
 ```python
 '{2} genome has {1} meters and {0} bp'.format(nucl, metr, name)
 '%s genome has %f meters and %i bp' % (name, metr, nucl)
+f'{name} genome has {metr} meters and {nucl} bp'
 ```
 
 ```python
-'{0} genome sequence is in file: {0}_genome.txt'.format(name)
-'%s genome sequence is in file: %s_genome.txt' % (name, name)
+'{} {} {} equals {}'.format(2, 'plus', 2, 2+2)
+'%i %s %i equals %i' % (2, 'plus', 2, 2+2)
+f'{2} {"plus"} {2} equals {2+2}'
+f"{2} {'plus'} {2} equals {2+2}"    
 ```
 
-Metoda `format` ma olbrzymie możliwości w porównaniu do starego stylu `%`.  Więcej przykładów: https://pyformat.info 
-
-Który mechanizm formatowania ciągów znaków (`%` / `format`) bardziej Ci odpowiada i dlaczego?
-
+Odpowiedz na zad. 13 korzystając z metody *F-strings*.
 
 
 # Wykonywanie programów Pythona
