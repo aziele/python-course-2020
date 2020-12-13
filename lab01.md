@@ -204,7 +204,7 @@ Python udostępnia zbiór <a target="_blank" href="https://docs.python.org/3/lib
 >>> s.upper()
 'BIOINFORMATICS'
 >>> print(s)
-Bioinformatics
+'Bioinformatics'
 ```
 
 Jak zmodyfikować powyższy kod, aby zmienna `s` miała na końcu wartość `BIOINFORMATICS`?
@@ -304,7 +304,7 @@ seqlen = len(seq)
 print(seqlen)
 ```
 
-Wykonaj skrypt używając polecania powłoki *bash*: 
+Wykonaj skrypt w terminalu używając polecania: 
 
 ```bash
 python3 01-22.py
@@ -345,7 +345,7 @@ IITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKG
 EPHHELPPGSTKRALPNNT'''
 ```
 
-Utwórz skrypt `01-25.py`, umieść w nim sekwencję `chain_a` i napisz instrukcje, które odpowiedzą na poniższe pytania:
+Utwórz skrypt `01-25.py`, umieść w nim powyższy kod i dodaj instrukcje, które odpowiedzą na poniższe pytania:
 
 1. Wyświetl na ekranie sekwencję `chain_a`. Ile linii zawiera powyższa sekwencja (użyj odpowiedniej metody)?
 2. Zapisz do nowej zmiennej sekwencję bez znaków nowej linii. Z ilu aminokwasów składa się sekwencja?
@@ -367,7 +367,7 @@ ATTTGTGACCGGCGCGGTTTTTGTCAGCTTACTCCGGCCA
 AAAAAGAACTGCACCTCTGGAGCGG"""
 ```
 
-Utwórz skrypt `01-26.py`, umieść w nim sekwencję `dna` i napisz instrukcje, które zrealizują następujące zadania:
+Utwórz skrypt `01-26.py`, umieść w nim powyższy kod i dodaj instrukcje, które zrealizują następujące zadania:
 
 1. Zamień sekwencję DNA na RNA i zapisz ją do zmiennej `rna` (np. `ATGCA` na `AUGCA`).
 2. W pozycji 51-156 nukleotydów sekwencji znajduje się intron - zapisz jego sekwencję do zmiennej `intron`.
