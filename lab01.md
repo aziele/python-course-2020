@@ -295,7 +295,7 @@ f'{2} {"plus"} {2} equals {2+2}'
 f"{2} {'plus'} {2} equals {2+2}"    
 ```
 
-Odpowiedz na zad. 13 korzystając z metody *F-strings*.
+Podaj rozwiązanie zadania 13 korzystając z metody *F-strings*.
 
 
 # Wykonywanie programów Pythona
