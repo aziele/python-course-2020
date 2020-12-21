@@ -6,7 +6,7 @@
 | Lab | Data | Opis | Zadania | Zadania dla chętnych |
 | :---: | --- | --- | --- | :---: |
 | **01** | 15.12.2020 | Liczby i ciągi znaków | [lab01](./lab01.md)  | |
-| **02**    | 22.12.2020 | Pętla *for* i listy  | lab02 | |
+| **02**    | 22.12.2020 | Pętla *for*, instrukcje warunkowe *if* i listy  | [lab02](./lab02.md) | [lab02-extra](./lab02-extra.md) |
 | **03**    | 05.01.2021 | Wczytywanie i zapisywanie plików teksowych  | lab03 | |
 | **04**    | 12.01.2021 | Powtórzenie wiadomości  | lab04 | |
 | **05**    | 19.01.2021 | Słowniki  | lab05 | |
