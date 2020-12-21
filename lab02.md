@@ -120,7 +120,8 @@ print(temp)
 Output:
 
 ```
-Temperature in Fahrenheit: 32.0  
+Enter temperature in Celsius: 4
+Temperature in Fahrenheit: 39.2  
 ```
 
 
