@@ -54,7 +54,7 @@ Ile wynosi `number` oraz `total` po przejściu całej pętli *for*?
 ```python
 total = 0
 for number in range(0, 8, 2):
-    total += number
+    total += number                # To samo co: total = total + number
 ```
 
 ## Zad. 6
@@ -72,8 +72,8 @@ Jaką wartość będzie miała zmienna `s2` w obu poniższych instrukcjach?
 ```python
 s1 = 'bioinfo'
 s2 = ''
-for letter in s1:    # Stringi są obiektami iterowalnymi. Oznacza to, że możemy  
-    s2 += letter     # używać pętli for do przechodzenia litera-po-literze.
+for letter in s1:                 # Stringi są obiektami iterowalnymi. Oznacza to, że możemy  
+    s2 += letter                  # używać pętli for do przechodzenia litera-po-literze.
 ```
 
 oraz

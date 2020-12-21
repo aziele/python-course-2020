@@ -1,5 +1,5 @@
 ## Zad. 32
-Zmodyfikuj kod zadania 31, aby każdą literę kodonu wyświetlić w osobnej linii.
+Zmodyfikuj kod zadania 31, aby wyświetlił w osobnej linii każdą literę kodonu.
 
 
 ## Zad. 33
