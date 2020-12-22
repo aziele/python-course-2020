@@ -126,7 +126,7 @@ Temperature in Fahrenheit: 39.2
 
 
 ## Zad. 10
-Poniższy program wypisuje na ekran wszystkie pozycje adeniny w sekwencji DNA. Niestety kod zawiera **cztery błędy**. Zmodyfikuj kod, tak aby działał prawidłowo.
+Poniższy program wypisuje na ekran wszystkie pozycje adeniny w sekwencji DNA. Niestety kod zawiera **cztery błędy**. Zmodyfikuj kod, aby działał prawidłowo.
 
 ```python
 seq = "ATGCTGACT" 
@@ -198,7 +198,7 @@ Czy poniższy kod zmodyfikuje listę?
 ```python
 lst = [1, 2, 3]
 for i in range(len(lst)):
-    lst[i] += 2
+    lst[i] += 10
 ```
 
 ## Zad. 17
@@ -292,8 +292,7 @@ s = 'B  I O I\nF    O R  M\tA T I C S'
 Podaj instrukcje, które z poniższego tekstu utworzą listę i wyświetlą na ekran liczbę wszystkich słów w tym tekście.
 
 ```python
-text = """The Wellcome Trust Sanger Institute
-is a world leader in genome research."""
+text = "The Wellcome Trust Sanger Institute is a world leader in genome research."
 ```
 
 
@@ -337,7 +336,7 @@ itd.
 
 
 ## Zad. 29
-Zmodyfikuj skrypt `02-28.py` tak, aby wyświetlić procentową zawartość każdego aminokwasu. Liczba wszystkich reszt aminokwasowych to `1584224`.
+Zmodyfikuj skrypt `02-28.py` tak, aby wyświetlić procentową zawartość każdego aminokwasu. Liczba wszystkich reszt aminokwasowych w liście `count` to `1584224`.
 
 Output:
 

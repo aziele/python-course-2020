@@ -3,7 +3,7 @@ Zmodyfikuj kod zadania 31, aby wyświetlił w osobnej linii każdą literę kodo
 
 
 ## Zad. 33
-Utwórz skrypt `02-33.py`, który przyjmie od użytkownika ciąg liczb. Po ich wczytaniu skrypt powinien zwrócić wartość średnią tych liczb.
+Utwórz skrypt `02-33.py`, który przyjmie od użytkownika ciąg liczb dowolnej długości. Po ich wczytaniu skrypt powinien wyświetlić na ekranie wartość średnią wprowadzonych liczb.
 
 Output:
 
@@ -26,7 +26,7 @@ Przykładowy zapis *dot-bracket*:
 .((..(((...)))..((..)))).
 ```
 
-Korzystając ze zdobytych do tej pory wiadomości na temat Pythona(lab01-lab02), napisz kod sprawdzający, czy dany zapis *dot-bracket* jest prawidłowy, tj:
+Korzystając ze zdobytych do tej pory wiadomości na temat Pythona (lab01-lab02), napisz skrypt `02-34.py` sprawdzający, czy dany zapis *dot-bracket* jest prawidłowy, tj:
 * składa się jedynie z nawiasów i kropek,
 * liczba nawiasów otwierających i zamykających musi być identyczna,
 * każdy nawias otwierający musi mieć swój nawias zamykający.
