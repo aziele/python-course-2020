@@ -7,7 +7,7 @@
 | :---: | --- | --- | --- | :---: |
 | **01** | 15.12.2020 | Liczby i ciągi znaków | [lab01](./lab01.md)  | |
 | **02**    | 22.12.2020 | Pętla *for*, instrukcje warunkowe *if* i listy  | [lab02](./lab02.md) | [lab02-extra](./lab02-extra.md) |
-| **03**    | 05.01.2021 | Wczytywanie i zapisywanie plików teksowych  | lab03 | lab03-extra |
+| **03**    | 05.01.2021 | Wczytywanie i zapisywanie plików teksowych  | [lab03](./lab03.md) | [lab03-extra](./lab03-extra.md) |
 | **04**    | 12.01.2021 | Słowniki  | lab04 | |
 | **05**    | 19.01.2021 | Funkcje  | lab05 | |
 | **06**    | 26.01.2021 | Krotki i zbiory  | lab06 | |
