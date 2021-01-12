@@ -13,8 +13,7 @@
 | **06**    | 26.01.2021 | Krotki i zbiory  | lab06 | |
 | **07**    | 02.02.2021 | Powtórzenie i rozszerzenie wiadomości  | lab07 | |
 | **08**    | 09.02.2021 | Projektowanie i tworzenie skrytów  | lab08 | |
-| **09**    | 16.02.2021 | Wbudowane moduły (itertools, os, re, urllib, argparse) | lab09 | |
-| **10**    | do ustalenia | Egzamin  |  | |
+| **09**    | 16.02.2021 | Egzamin  |  | |
 
 
 ## Sprawozdania
