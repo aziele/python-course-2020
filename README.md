@@ -11,9 +11,9 @@
 | **04**    | 12.01.2021 | Słowniki  | [lab04](./lab04.md) | [lab04-extra](./lab04-extra.md) |
 | **05**    | 19.01.2021 | Funkcje  | lab05 | |
 | **06**    | 26.01.2021 | Krotki i zbiory  | lab06 | |
-| **07**    | 02.02.2021 | Powtórzenie i rozszerzenie wiadomości  | lab07 | |
-| **08**    | 09.02.2021 | Projektowanie i tworzenie skryptów  | lab08 | |
-| **09**    | 16.02.2021 | Egzamin  |  | |
+| **07**    | 02.02.2021 | Projektowanie i tworzenie skryptów  | lab07 | |
+| **08**    | 09.02.2021 | Wbudowane moduły (itertools, os, re, urllib, argparse)  | lab08 | |
+| **09**    | 12.02.2021 | Egzamin  |  | |
 
 
 ## Sprawozdania
