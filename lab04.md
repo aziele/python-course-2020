@@ -214,7 +214,7 @@ protein_weights = {
 }
 ```
 
-Utwórz skrypt `04-13.py`, który obliczy masę molową poniższej sekwencji białkowej (sumę mas aminokwasów znajdujących się w sekwencji). Zwróć uwagę, że w poniższej sekwencji znajduje się znak, który nie jest aminokwasem (`X`) - jeżeli aminokwasu nie ma w słowniku to `protein_weights` to potraktuj, że jego masa molowa to `0`. 
+Utwórz skrypt `04-13.py`, który obliczy masę molową poniższej sekwencji białkowej (sumę mas aminokwasów znajdujących się w sekwencji). Zwróć uwagę, że w poniższej sekwencji znajduje się znak, który nie jest aminokwasem (`X`) - jeżeli aminokwasu nie ma w słowniku `protein_weights` to potraktuj, że jego masa molowa to `0`. 
 
 ```python
 pep = "MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNXCEVVLGNLEITYVQRNYDLSFLKTXIQEVAGYVL"

@@ -1,2 +1,2 @@
 ## Zad. 20
-W pliku [lotto_history.txt](./data/lotto_history.txt) znajdują się wszystkie historyczne wyniki losowania Dużego Lotka od 27.01.1957 do 07.01.2021. Utwórz skrypt, który wskaże dziesięć najczęściej losowanych liczb oraz poda liczbę wystąpień każdej tej liczby.
+W pliku [data/lotto_history.txt](./data/lotto_history.txt) znajdują się wszystkie historyczne wyniki losowania Dużego Lotka od 27.01.1957 do 07.01.2021. Utwórz skrypt, który wskaże dziesięć najczęściej losowanych liczb oraz poda liczbę wystąpień każdej tej liczby.
