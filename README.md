@@ -9,7 +9,7 @@
 | **02**    | 22.12.2020 | Pętla *for*, instrukcje warunkowe *if* i listy  | [lab02](./lab02.md) | [lab02-extra](./lab02-extra.md) |
 | **03**    | 05.01.2021 | Wczytywanie i zapisywanie plików teksowych  | [lab03](./lab03.md) | [lab03-extra](./lab03-extra.md) |
 | **04**    | 12.01.2021 | Słowniki  | [lab04](./lab04.md) | [lab04-extra](./lab04-extra.md) |
-| **05**    | 19.01.2021 | Funkcje  | lab05 | |
+| **05**    | 19.01.2021 | Funkcje  | [lab05](./lab05.md) | [lab05-extra](./lab05-extra.md) |
 | **06**    | 26.01.2021 | Krotki i zbiory  | lab06 | |
 | **07**    | 02.02.2021 | Projektowanie i tworzenie skryptów  | lab07 | |
 | **08**    | 09.02.2021 | Wbudowane moduły (itertools, os, re, urllib, argparse)  | lab08 | |
