@@ -1,5 +1,5 @@
 ## Zad. 20
-Celem zadania jest obliczenie podobieństwa sekwencji każdej pary wirusów w pliku [phages.fasta](./data/phages.fasta).
+Celem zadania jest obliczenie podobieństwa sekwencji między każdą parą wirusów z pliku [phages.fasta](./data/phages.fasta).
 
 Dla każdej sekwencji wirusa wyodrębnij zbiór wszystkich jego podsekwencji długości 10 nukleotydów. Następnie oblicz [współczynnik podobieństwa Jaccarda](https://pl.wikipedia.org/wiki/Indeks_Jaccarda) pomiędzy każdą parą wirusów.
 
