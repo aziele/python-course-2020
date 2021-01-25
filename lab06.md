@@ -56,9 +56,9 @@ lst = ['AA', 'TT', 'GG', 'AA']   # Pomiń jeżeli N
 Utwórz dwu-elementową krotkę. 
 
 ```python
-t = ('gene1', 'chr1')    # To jest krotka: tworzenie przez nawiasy okrągłe ()
-                         # Dla jasności: krotki nie muszą być dwu-elementowe.
-                         # Mogą mieć różne liczebności (od 0 w górę).
+t = ('gene1', 'chr1')       # To jest krotka. Tworzy się ją przez nawiasy okrągłe ().
+                            # Dla jasności: krotki nie muszą być dwu-elementowe.
+                            # Mogą mieć różne liczebności (od 0 w górę).
 ```
 
 Które z poniższych instrukcji są prawidłowe?
