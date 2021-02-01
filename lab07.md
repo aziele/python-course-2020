@@ -46,7 +46,9 @@ GGTCGCATAGCTCAGTGGAAGAGCACGAGCCTCCTAAGCCCGGGGTCGCAGGTTCAACTCCTGTTGCGATCGCCA
 
 
 ## Zad. 2
-Zmodyfikuj skrypt, aby sekwencje genów nici `-` zostały zapisane do pliku w kierunku 5'-3' (tj. odwrotnie komplementarnym). W tym celu wykorzystaj funckję `reverse_complement` z [lab05](./lab05.md) (zad. 16). 
+Zmodyfikuj skrypt, aby sekwencje genów nici `-` zostały zapisane do pliku w kierunku 5'-3' (tj. odwrotnie komplementarnym). 
+
+> Wskazówka: Wykorzystaj funckję `reverse_complement` z [lab05](./lab05.md) (zad. 16). 
 
 
 ```
@@ -74,7 +76,7 @@ CTGTTGCGATCGCCA
 ```
 
 ## Zad. 4
-Zapoznaj się z poniższym kodem i zmodyfikuj skrypt `07-01.py`, aby przyjmował on nazwy plików z systemowego wiersza poleceń.
+Zapoznaj się z poniższym kodem i zmodyfikuj skrypt `07-01.py`, aby przyjmował nazwy plików z systemowego wiersza poleceń.
 
 script.py
 ```python
