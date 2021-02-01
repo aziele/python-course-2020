@@ -43,7 +43,7 @@ Następnie zmodyfikuj skrypt `07-01.py` aby obsługiwany był przez moduł `argp
 
 
 ## Zad. 7
-Metody *alignment-free* są nowoczesnymi metodami porównywania sekwencji. Większość z nich zakłada, że sekwencje spokrewnione (*homologiczne*) składają się z wielu podobnych krótszych podsekwencji (*k*-merów).
+Metody *alignment-free* są nowoczesnymi metodami porównywania sekwencji. Większość z nich zakłada, że spokrewnione sekwencje (*homologiczne*) składają się z wielu podobnych krótszych podsekwencji (*k*-merów).
 
 #### Przykład
 
@@ -91,7 +91,7 @@ Wartość `0.332` odpowiada dystansowi jaki dzieli dwie sekwencje `x` i `y`.
 
 
 ### Cel zadania
-Celem zadania jest napisanie programu, który dla zadanego zbioru sekwencji w formacie FASTA obliczy dystanse euklidesowe pomiędzy każdą parą sekwencji w zależności od podanej przez użytkownika długości słowa (*k*-mer) i sprecyzowania, czy wektorem mają być zliczenia czy częstości. Wynikiem powinnien być plik zawierający pary dystansów.
+Celem zadania jest napisanie programu, który dla zadanego pliku sekwencji w formacie FASTA obliczy dystanse euklidesowe pomiędzy każdą parą sekwencji w zależności od podanej przez użytkownika długości słowa (*k*-mer) i sprecyzowania, czy wektorem mają być zliczenia czy częstości. Wynikiem powinnien być plik zawierający pary dystansów.
 
 Na przykład dla 4 sekwencji białkowych:
 
