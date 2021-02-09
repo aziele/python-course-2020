@@ -12,7 +12,7 @@
 | **05**    | 19.01.2021 | Funkcje  | [lab05](./lab05.md) | [lab05-extra](./lab05-extra.md) |
 | **06**    | 26.01.2021 | Składanie list, krotki i zbiory  | [lab06](./lab06.md) | [lab06-extra](./lab06-extra.md) |
 | **07**    | 02.02.2021 | Projektowanie i tworzenie skryptów  | [lab07](./lab07.md) | [lab07-extra](./lab07-extra.md) |
-| **08**    | 09.02.2021 | Wbudowane moduły (itertools, os, re, urllib, argparse)  | lab08 | |
+| **08**    | 09.02.2021 | Wbudowane moduły (itertools, os, re, urllib, argparse)  | [lab08](./lab08.md) | [lab08-extra](./lab08-extra.md) |
 | **09**    | 12.02.2021 | Egzamin  |  | |
 
 
